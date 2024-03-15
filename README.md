@@ -54,11 +54,11 @@ from 19 to 23
 
 #from 35 to 37
 
-1)<input type="submit" value="Send" id="send" >
-2)<h1>
-3)<h2>
-4)<textarea>
-5)<html nag="en">
-6)10 to 20
+1) <input type="submit" value="Send" id="send" >
+2) <h1>
+3) <h2>
+4) <textarea>
+5) <html nag="en">
+6) 10 to 20
 7)<div tabindex="0">
 8)Accessible Rich Internet Applications 
